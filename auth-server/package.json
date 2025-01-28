@@ -24,6 +24,7 @@
     "@nestjs/common": "^11.0.1",
     "@nestjs/config": "^4.0.0",
     "@nestjs/core": "^11.0.1",
+    "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^11.0.1",
     "@nestlab/google-recaptcha": "^3.8.0",
     "@prisma/client": "^6.2.1",
