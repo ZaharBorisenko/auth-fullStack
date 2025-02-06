@@ -78,7 +78,7 @@ export class AuthService {
         resolve();
       });
     });
-  }
+  } 
 
   private async saveSession(req: Request, user: User) {
     return new Promise((resolve, reject) => {
